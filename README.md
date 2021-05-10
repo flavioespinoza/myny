@@ -1,0 +1,2 @@
+# myny
+Mini URL generator.
